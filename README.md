@@ -1,9 +1,9 @@
 ## Hi there, I'm Zuhal 👋
 
-🔭 I was working on an iOS application using Swift & SwiftUI  
-🌱 I am currently learning about AI/ML in the Dicoding course and learning fullstack web development in the Codepolitan course
-💬 Ask me about Swift, SwiftUI, and iOS development  
-👯 I’m looking to collaborate on iOS open-source projects  
+🔭 I was working on an fullstack web development  
+🌱 I am currently learning fullstack web development in the Codepolitan course
+💬 Ask me about fullstack web development  
+👯 I’m looking to collaborate on web development open-source projects  
 ⚡ Fun fact: I enjoy refactoring UI more than designing it
 
 ### Github Statistic
