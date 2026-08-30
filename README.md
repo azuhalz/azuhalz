@@ -1,9 +1,9 @@
-## Hi there, I'm Zuhal 👋
+## Hi there, I'm Zhafran 👋
 
-🔭 I was working on an iOS app projects      
-🌱 I’m currently learning full-stack web development through the Codepolitan course  
-💬 Ask me about web development  
-👯 I’m looking to collaborate on open-source web development projects  
+🔭 I was working on an iOS app and fullstack web projects      
+🌱 I’m currently building website and ios app 
+💬 Ask me about ios and web development  
+👯 I’m looking to collaborate on open-source ios and web development projects  
 ⚡ Fun fact: I enjoy refactoring UI more than designing it
 
 ### Github Statistic
