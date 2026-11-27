@@ -9,29 +9,13 @@
 
 ### GitHub Statistics
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/overview.dark.svg"
-  />
-  <img
-    src="./assets/overview.light.svg"
-    alt="GitHub Overview"
-    width="100%"
-  />
-</picture>
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=azuhalz&theme=github&style=minimal" width="100%" alt="GitHub Statistics" />
+</p>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/languages.dark.svg"
-  />
-  <img
-    src="./assets/languages.light.svg"
-    alt="GitHub Languages"
-    width="100%"
-  />
-</picture>
+<p align="center">
+  <img src="https://ghstats.dev/api/langs?username=azuhalz&theme=github&layout=horizontal_list&hide_border=true" width="100%" alt="Top Languages" />
+</p>
 
 
 📫 How to reach me: ahmadzuhalzhafran@gmail.com
