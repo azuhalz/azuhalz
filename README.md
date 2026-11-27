@@ -9,10 +9,21 @@
 
 ### GitHub Statistics
 
-<p>
-  <img src="https://img.shields.io/github/followers/azuhalz?style=flat&label=Followers&logo=github&color=181717" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/repos/azuhalz?style=flat&label=Public%20Repos&color=181717" alt="Public Repositories" />
-  <img src="https://komarev.com/ghpvc/?username=azuhalz&style=flat&label=Profile%20Views&color=181717" alt="Profile Views" />
+<p align="center">
+  <a href="https://github.com/azuhalz">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=azuhalz&show_icons=true&include_all_commits=true&theme=dark&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff&border_color=30363d&border_radius=12"
+      width="49%"
+      alt="GitHub Statistics"
+    />
+  </a>
+  <a href="https://github.com/azuhalz">
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=azuhalz&layout=compact&langs_count=6&theme=dark&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&border_color=30363d&border_radius=12"
+      width="49%"
+      alt="Top Languages"
+    />
+  </a>
 </p>
 
 
