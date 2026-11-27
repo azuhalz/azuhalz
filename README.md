@@ -9,12 +9,10 @@
 
 ### GitHub Statistics
 
-<p align="center">
-  <img src="https://ghstats.dev/api/card?username=azuhalz&theme=github&style=minimal" width="100%" alt="GitHub Statistics" />
-</p>
-
-<p align="center">
-  <img src="https://ghstats.dev/api/langs?username=azuhalz&theme=github&layout=horizontal_list&hide_border=true" width="100%" alt="Top Languages" />
+<p>
+  <img src="https://img.shields.io/github/followers/azuhalz?style=flat&label=Followers&logo=github&color=181717" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/repos/azuhalz?style=flat&label=Public%20Repos&color=181717" alt="Public Repositories" />
+  <img src="https://komarev.com/ghpvc/?username=azuhalz&style=flat&label=Profile%20Views&color=181717" alt="Profile Views" />
 </p>
 
 
