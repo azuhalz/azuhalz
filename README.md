@@ -6,18 +6,32 @@
 👯 I’m looking to collaborate on open-source ios and web development projects  
 ⚡ Fun fact: I enjoy refactoring UI more than designing it
 
-### Github Statistic
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=azuhalz&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent"
-    height="165"
-    alt="GitHub Stats"
+
+### GitHub Statistics
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/overview.dark.svg"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=azuhalz&layout=compact&langs_count=6&hide_border=true&theme=transparent"
-    height="165"
-    alt="Top Languages"
+    src="./assets/overview.light.svg"
+    alt="GitHub Overview"
+    width="100%"
   />
-</p>
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/languages.dark.svg"
+  />
+  <img
+    src="./assets/languages.light.svg"
+    alt="GitHub Languages"
+    width="100%"
+  />
+</picture>
+
 
 📫 How to reach me: ahmadzuhalzhafran@gmail.com
